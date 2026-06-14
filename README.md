@@ -16,7 +16,7 @@ This is a simple calculator created using HTML, CSS, and JavaScript. It performs
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot.png)
 
 ## How to Run
 
