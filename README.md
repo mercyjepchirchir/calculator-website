@@ -1,4 +1,4 @@
-# calculato# Calculator Website
+# calculator# Calculator Website
 
 ## Description
 This is a simple calculator created using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
